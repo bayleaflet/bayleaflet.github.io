@@ -1,6 +1,4 @@
-# bayleaflet.github.io
-
-## Projects
+# Projects
 ### Project 1
 - Description
 - Images
