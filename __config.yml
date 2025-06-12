@@ -1,1 +1,5 @@
-
+remote_theme: pages-themes/cayman@v0.2.0
+title: Baylee Christensen
+description: Graduate Research Assistang | Ph. D. Student in Ecology and Evolution | University of Wyoming
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: G-BRGD28TNRY
